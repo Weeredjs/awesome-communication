@@ -30,6 +30,8 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [Revolt](https://github.com/revoltchat) - Revolt is an open source user-first chat platform.
 
+* [OpenPaw](https://github.com/daxaur/openpaw) - Open-source AI-powered CLI that connects to Slack, Discord, Email, iMessage, WhatsApp, and Telegram from a single interface. Run via `npx pawmode`.
+
 
 ## Chat bots
 * [Rasa](https://rasa.com/) - Rasa Open Source is a machine learning framework to automate text- and voice-based assistants.
