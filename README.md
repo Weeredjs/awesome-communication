@@ -34,6 +34,8 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [WhatsApp Readonly Bridge](https://github.com/MarketingBoer/whatsapp-readonly-bridge) - Zero-dependency Python bridge that receives WhatsApp messages via the official Meta Cloud API and saves them to a JSONL file. Includes Telegram digest for team discussion. Read-only by design.
 
+* [BChat](https://bchat.beldex.io/) - BChat is a privacy messaging app built on the Beldex blockchain that does not require personal identifiers, such as phone numbers or email addresses.
+
 
 ## Chat bots
 * [Rasa](https://rasa.com/) - Rasa Open Source is a machine learning framework to automate text- and voice-based assistants.
